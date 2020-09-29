@@ -12,4 +12,4 @@ Los datos que se van a analizar en este documento pertenecen a un dataset creado
 
 Así pues, en este proyecto se realizará un análisis exploratorio completo de los datos, además de predicciones con varios modelos así como su evaluación.
 
-Cualquier comentario, duda o críticas siempre serán bienvenidas.
+Cualquier comentario, duda o crítica siempre serán bienvenidas.
